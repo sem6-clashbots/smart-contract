@@ -12,7 +12,7 @@ const CollectionConfig: CollectionConfigInterface = {
   contractName: 'RobotsCB',
   tokenName: 'RobotsCB',
   tokenSymbol: 'RCB',
-  hiddenMetadataUri: 'ipfs://QmWKvq8QgvrSJPD4kfw6pCuLuVxBZgaD3yPRcyiwLfNEqA/hidden.json',
+  hiddenMetadataUri: 'ipfs://QmQpbCAUyt2CWTA54q8nWVX126fqbWNSuq2D1Js3ZdHr2e/hidden.json',
   maxSupply: 1000,
   whitelistSale: {
     price: 0.04,
@@ -26,7 +26,7 @@ const CollectionConfig: CollectionConfigInterface = {
     price: 0.04,
     maxMintAmountPerTx: 3,
   },
-  contractAddress: "0xF7Ff07d880A1D791471FE1d29D9C5e64843ff512",
+  contractAddress: "0x70B7c5834a04E1cA760a9c9C4C1497805A710B6c",
   marketplaceIdentifier: 'my-nft-token',
   marketplaceConfig: openSea,
   whitelistAddresses: whitelistAddresses,
